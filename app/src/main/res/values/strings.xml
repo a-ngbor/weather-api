@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather Information</string>
+    <string name="splash_text">Weather Information\nBy Aaron Ngbor for Hakoware</string>
+</resources>
