@@ -21,7 +21,10 @@
             android:name=".activities.MainZipCodeActivity"
             android:label="@string/title_activity_main_zip_code"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".activities.ZipCodeInfoActivity"></activity>
+        <activity
+            android:name=".activities.ZipCodeInfoActivity"
+            android:label="@string/title_activity_zip_code_info" />
+
     </application>
 
 </manifest>

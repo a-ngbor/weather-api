@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">Weather Information</string>
     <string name="splash_text">Weather Information\nBy Aaron Ngbor for Hakoware</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="title_activity_main_zip_code">MainZipCodeActivity</string>
+    <string name="title_activity_main">Weather Information</string>
+    <string name="title_activity_main_zip_code">Weather Information - List</string>
+    <string name="title_activity_zip_code_info">Weather Details </string>
     <string name="latitude_1_text">Latitude</string>
     <string name="longitude_1_text">Longitude</string>
     <string name="city_label">City</string>
