@@ -1,9 +1,11 @@
-package com.hakoware.weatherinformation;
+package com.hakoware.weatherinformation.activities;
 
 import android.content.Intent;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.hakoware.weatherinformation.R;
 
 public class SplashActivity extends AppCompatActivity {
 
@@ -12,7 +14,6 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
         new Handler().postDelayed(new Runnable() {
-
             /*
              * Showing splash screen with a timer.
              */

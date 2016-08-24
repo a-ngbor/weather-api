@@ -3,4 +3,22 @@
     <string name="splash_text">Weather Information\nBy Aaron Ngbor for Hakoware</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_main_zip_code">MainZipCodeActivity</string>
+    <string name="latitude_1_text">Latitude</string>
+    <string name="longitude_1_text">Longitude</string>
+    <string name="city_label">City</string>
+    <string name="city_name_text">City name could not be retrieved.</string>
+    <string name="current_temp_text">Temperature could not be retrieved</string>
+    <string name="forecast_label">Forecast</string>
+    <string name="wind_label">Wind</string>
+    <string name="current_wind">Wind could not be retrieved.</string>
+    <string name="cloudiness_label">Cloudiness</string>
+    <string name="current_cloudiness">Cloudiness could not be retrieved.</string>
+    <string name="pressure_label">Pressure</string>
+    <string name="current_pressure">Pressure could not be retrieved.</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="current_humidity">Humidity could not be retrieved.</string>
+    <string name="sunrise_label">Sunrise</string>
+    <string name="current_sunrise">Sunrise could not be retrieved.</string>
+    <string name="sunset_label">Sunset</string>
+    <string name="current_sunset">Sunset could not be retrieved.</string>
 </resources>
